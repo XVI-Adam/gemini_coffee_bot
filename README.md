@@ -16,7 +16,7 @@ You can install the required packages using pip:
 
 ```bash
 pip install google-generativeai python-dotenv taipy
-
+```
 ## Key Features
 
 -   **Gemini Integration:** Uses Google's Gemini 1.5 Flash to handle coffee order conversations.
